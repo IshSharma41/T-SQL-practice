@@ -1,5 +1,5 @@
-set NOCOUNT on;
-use tempdb;
+set nocount on;
+use learningDB;
 GO
 if Object_id('dbo.orders') is not null
     drop table dbo.orders;
