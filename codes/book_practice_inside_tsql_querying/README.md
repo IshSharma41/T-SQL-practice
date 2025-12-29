@@ -81,6 +81,6 @@ Complete reference materials from **"Inside Microsoft SQL Server 2005: T-SQL Que
 - Execute scripts with appropriate database context using `USE` statements
 - Some examples may require specific user permissions or database settings
 
-## About the Author
+## About the Author of the book being referred to 
 
 Itzik Ben-Gan is a renowned T-SQL expert and Microsoft MVP. This textbook is considered one of the most comprehensive references for advanced T-SQL querying techniques.
