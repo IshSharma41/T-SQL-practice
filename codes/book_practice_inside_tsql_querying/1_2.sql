@@ -14,7 +14,7 @@ create table dbo.customers
 );
 
 insert into dbo.customers (customerid, city) values
-('FISSA', 'madrid');
+('FISSA', 'Madrid');
 insert into dbo.customers(customerid, city) values 
 ('FRNDO', 'Madrid');
 insert into dbo.customers(customerid, city) values 
